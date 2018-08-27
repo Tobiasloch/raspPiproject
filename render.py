@@ -55,7 +55,7 @@ class graphicEngine:
 	pass
 	
 	def paint(self):
-		t = 10000
+		t = 100
 		while t>0:
 			i = 0
 			while i < self.pixelsX:
