@@ -74,7 +74,7 @@ class graphicEngine:
 				pass
 			i = i+1
 			pass
-			t=t-1
+		t=t-1
 		pass
 	pass
 	
