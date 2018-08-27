@@ -52,6 +52,8 @@ class graphicEngine:
 	def calcPixels(self):
 		self.pixels[0][0] = 1
 		self.pixels[1][1] = 0.5
+		self.pixels[0][1] = 0.75
+		self.pixels[1][0] = 0.25
 	pass
 	
 	def paint(self):
